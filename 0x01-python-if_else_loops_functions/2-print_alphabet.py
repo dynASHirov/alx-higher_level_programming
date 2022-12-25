@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for a in range(ord('a'), ord('z') + 1):
-    print("{:c}".format(a), end='')
+for x in range(26):
+    print('{:c}'.format(97 + x), end='')
