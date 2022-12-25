@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for num in range(97, 122):
-    print(chr(num), end="")
+for alph in range(ord('a'), ord('z') + 1):
+    print(f"{alph:c}", end="")
