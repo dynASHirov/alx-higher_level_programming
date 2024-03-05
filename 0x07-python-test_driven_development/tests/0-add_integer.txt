@@ -1,7 +1,5 @@
-case for ``0-add_integer`` module
+The ``0-add_integer`` module
 ============================
-
-The 0-add_integer module takes two integers or floats as arguments and returns their sum
 
 Using ``add_integer``
 ---------------------
